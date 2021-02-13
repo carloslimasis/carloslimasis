@@ -9,11 +9,11 @@ My name is Carlos Lima. I work as a Software Developer at Dextra.
 
 ### Analytics ⚙️
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carloslimasis@gmail.com&layout=compact&count_private=true)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carloslimasis&layout=compact&count_private=true)
 
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=carloslimasis@gmail.com&count_private=true&show_icons=true)
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=carloslimasis&count_private=true&show_icons=true)
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=carloslimasis@gmail.com&hide_border=true)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=carloslimasis&hide_border=true)
 
 ### Let's connect? 🤝
 
